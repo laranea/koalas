@@ -16,6 +16,7 @@ nbsphinx
 numpydoc==0.8
 pypandoc
 ipython
+git+https://github.com/pandas-dev/pydata-sphinx-theme.git@master
 
 # Linter
 mypy
